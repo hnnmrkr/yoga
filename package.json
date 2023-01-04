@@ -1,0 +1,9 @@
+{
+  "name": "yoga",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "mysql": "^2.18.1"
+  }
+}
